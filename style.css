@@ -78,3 +78,33 @@ z-index: 100;
   width: 100px;
   pointer-events: none;
 }
+<---->>
+.container-about {
+  margin: 100px 5%;
+  background-color: khaki;
+  display: flex;
+  justify-content: space-between;
+}
+.wrap-img img {
+  width: 100%;
+}
+.wrap img {
+  width: 100%;
+}
+.card-one {
+  width: 28%;
+  background-color: bisque;
+  padding: 10px;
+  border-radius: 12px;
+}
+.text-card button {
+  padding: 12px 24px;
+  background-color: aqua;
+
+  border-radius: 12px;
+  color: white;
+  border: none;
+}
+.text-card p{
+  margin: 12p;
+}
